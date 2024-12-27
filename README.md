@@ -4,6 +4,13 @@
 
 This project was completed by me as part of the course "The Ultimate React Course 2024: React, Redux & More" created by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) on the Udemy educational platform.
 
+**Note:** This app is intended for hotel workers. You can log in using the test user:
+
+**Email:** test@gmail.com
+**Password:** qwerty12
+
+After logging in with the test account, you can create your own account directly within the app.
+
 ---
 
 ## ✨ Features
