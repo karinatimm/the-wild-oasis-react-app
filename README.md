@@ -59,7 +59,7 @@ This project was completed by me as part of the course "The Ultimate React Cours
 ### 🌐 Deployment
 
 This project has been deployed on Vercel and is accessible at the following URL:  
-**[The Wild Oasis App on Vercel](https://worldwise-react-n6mcsgh3r-karinas-projects-e74ba04a.vercel.app/)**
+**[The Wild Oasis App on Vercel](https://the-wild-oasis-react-app-kappa.vercel.app)**
 
 ---
 
